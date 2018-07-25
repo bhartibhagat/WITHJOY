@@ -1,0 +1,65 @@
+.login_1 h1{
+	text-align:center;
+	color:white;
+}
+.image {
+	text-align:center;
+}
+.login {
+	background-image:url(../images/loginimage.JPG);
+	padding-bottom:70px;
+}
+.image img{
+	background-color:transparent;
+}
+.user{
+	padding-left:100px;
+	width:100%;
+	color:white;
+}
+.user p{
+	font-size:30px;
+}
+.user input{
+	color:black;
+}
+ .pass input{
+	color:black;
+}
+.pass p{
+	font-size:30px;
+}
+.pass {
+	padding-left:100px;
+	padding-top:30px;
+	width:100%;
+	color:white;
+}
+.page {
+	padding-left:300px;
+}
+	input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	padding-left:40px;
+}
+.log_1 {
+	padding-left:270px;
+}
+.log {
+	padding-top:50px;
+}
+.other_1{
+	padding-left:385px;
+	padding-top:50px;
+}
+.other_2{
+	padding-top:50px;
+}
+.other_2 p{
+	color:#000;
+}
